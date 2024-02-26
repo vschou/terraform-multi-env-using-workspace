@@ -45,9 +45,6 @@ provider "aws" {
 #   access_key = ""
 #   secret_key = ""
 # }
-# #### COMMANDS TO CHECK & USE THE TERRAFORM FOR DEPLOYMENT ########
-# terraform apply -var 'provider_alias=prod' -var-file='prod.tfvars'
-# terraform plan -var 'provider_alias=prod' -var-file='prod.tfvars'
 
 # ####### CONFIGURING AZURE CLOUD PROVIDER #######
 # provider "azurerm" {

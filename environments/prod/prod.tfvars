@@ -1,10 +1,10 @@
 # Defines variable values specific to the environment
 # PROVIDERS CREDENTIALS
-access_key = "AKIAW3MEE4XYZR4YNYFK"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 # GITLAB CREDENTIALS
 TOKEN    = "VywHMTuBc2qzAEx3L9Z5"
-BASE_URL = "https://gitlab.chakravuyha.com/api/v4"
+BASE_URL = "https://gitlab.com/api/v4"
 
 # Defines variable values specific to the environment
 REGION         = "ap-south-1"
