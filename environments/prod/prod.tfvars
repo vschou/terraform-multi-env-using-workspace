@@ -3,7 +3,7 @@
 access_key = ""
 secret_key = ""
 # GITLAB CREDENTIALS
-TOKEN    = "VywHMTuBc2qzAEx3L9Z5"
+TOKEN    = ""
 BASE_URL = "https://gitlab.com/api/v4"
 
 # Defines variable values specific to the environment
