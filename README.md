@@ -3,6 +3,7 @@ script for aws multi environments using workspace
 # Commands to use this repo
 <details>
  <summary>[1] Cloning this terraform repo</summary>
+ '''bash
  $ git clone <REPO_URL>
 </details>
 <details>
