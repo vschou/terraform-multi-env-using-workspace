@@ -1,11 +1,15 @@
 # terraform-multi-env-using-workspace
 script for aws multi environments using workspace
 # Commands to use this repo
-[1] Cloning this terraform repo     
- $ git clone <REPO_URL>    
-[2] opening the repo folders in any IDE & running the following commands  
- $ cd environments/dev/       #_changing directory to 'dev' environment  
- $ terraform workspace list   #_checking the workspace list  
+<details>
+ <summary>[1] Cloning this terraform repo</summary>
+</details>
+ $ git clone <REPO_URL>
+<details>
+ <summary>[2] opening the repo folders in any IDE & running the following commands</summary>
+</details>
+ $ cd environments/dev/       #_changing directory to 'dev' environment   
+ $ terraform workspace list   #_checking the workspace list    
  $ terraform workspace new dev   #_Creating 'dev' workspace  
  $ terraform workspace list      #_Listing the all available workspaces here  
  $ cd ..  
